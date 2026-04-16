@@ -1,0 +1,14 @@
+Blinkit Sales Analytics Dashboard
+This project is an interactive Power BI dashboard built to analyze sales performance, customer behavior, and outlet insights for a retail/grocery platform (Blinkit). 
+The dashboard provides a comprehensive view of business metrics such as total sales, average sales, product distribution, and outlet performance.
+It enables users to explore data dynamically using filters like outlet location, size, and type. The dashboard highlights key trends such as sales growth over time, item category performance, and outlet-level contributions, helping stakeholders make data-driven decisions.
+
+Key insights include:
+
+Total sales of $1.20M with an average sale of $141
+Performance comparison across outlet tiers (Tier 1, Tier 2, Tier 3)
+Category-wise sales distribution (Fruits, Snacks, Household, etc.)
+Impact of outlet size and type on revenue
+Customer rating trends and item visibility analysis
+
+This project demonstrates skills in data cleaning, data modeling, DAX, and data visualization using Power BI.
